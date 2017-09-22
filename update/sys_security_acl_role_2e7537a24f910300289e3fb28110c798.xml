@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2017-09-22 17:49:39</sys_created_on>
+        <sys_id>2e7537a24f910300289e3fb28110c798</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_163438_safety_inspection.x_163438_safety.user</sys_name>
+        <sys_package display_value="Safety" source="x_163438_safety">27a903ea4f110300289e3fb28110c74d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">27a903ea4f110300289e3fb28110c74d</sys_scope>
+        <sys_security_acl display_value="x_163438_safety_inspection">e27537a24f910300289e3fb28110c796</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2e7537a24f910300289e3fb28110c798</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2017-09-22 17:49:39</sys_updated_on>
+        <sys_user_role display_value="x_163438_safety.user" name="x_163438_safety.user">b3a9072e4f110300289e3fb28110c74f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
