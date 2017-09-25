@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>140da6674f510300289e3fb28110c7f3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_163438_safety_issue">
+    <x_163438_safety_issue action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <category>Small</category>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <inspector/>
+        <knowledge>false</knowledge>
+        <location display_value="100 South Charles Street, Baltimore,MD">25ab9c4d0a0a0bb300f7dabdc0ca7c1c</location>
+        <made_sla>true</made_sla>
+        <number>SAFT0001031</number>
+        <opened_at>2017-09-25 15:07:15</opened_at>
+        <opened_by display_value="Chuck Tomasi">a80647aa4f110300289e3fb28110c7ba</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <short_description>Water on the floor in the lunchroom</short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_163438_safety_issue</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2017-09-25 15:07:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>140da6674f510300289e3fb28110c7f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2017-09-25 15:07:15</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_163438_safety_issue>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2017-09-25 16:51:17</sys_created_on>
+        <sys_id>45e40fa34f910300289e3fb28110c78d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAFT0001031</sys_name>
+        <sys_package display_value="Safety" source="x_163438_safety">27a903ea4f110300289e3fb28110c74d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">27a903ea4f110300289e3fb28110c74d</sys_scope>
+        <sys_update_name>sys_metadata_link_45e40fa34f910300289e3fb28110c78d</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2017-09-25 16:51:17</sys_updated_on>
+        <tablename>x_163438_safety_issue</tablename>
+    </sys_metadata_link>
+</record_update>
