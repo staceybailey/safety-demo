@@ -7,6 +7,7 @@
                 <element label="Small" sequence="1" value="Small"/>
             </choice>
         </element>
-        <element label="Inspector" max_length="32" name="inspector" reference="sys_user" type="reference"/>
+        <element label="Inspector" max_length="32" name="inspector" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Project" max_length="40" name="project" type="boolean"/>
     </element>
 </database>
