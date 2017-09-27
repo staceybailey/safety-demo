@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="dl_definition_rel_match">
+    <dl_definition_rel_match action="INSERT_OR_UPDATE">
+        <dl_definition display_value="Inspector lookup">6f0866544f294300289e3fb28110c723</dl_definition>
+        <exact_match>false</exact_match>
+        <matcher_table>x_163438_safety_inspector_lookup_rule</matcher_table>
+        <matcher_table_field>category</matcher_table_field>
+        <source_table>x_163438_safety_issue</source_table>
+        <source_table_field>category</source_table_field>
+        <sys_class_name>dl_definition_rel_match</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2017-09-27 22:41:30</sys_created_on>
+        <sys_id>6038a6544f294300289e3fb28110c777</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>category</sys_name>
+        <sys_package display_value="Safety" source="x_163438_safety">27a903ea4f110300289e3fb28110c74d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">27a903ea4f110300289e3fb28110c74d</sys_scope>
+        <sys_update_name>dl_definition_rel_match_6038a6544f294300289e3fb28110c777</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2017-09-27 22:41:30</sys_updated_on>
+    </dl_definition_rel_match>
+</record_update>

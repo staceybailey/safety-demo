@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Safety">ccb9472e4f110300289e3fb28110c797</application>
+        <filter/>
+        <name>Inspector lookup rules</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_163438_safety.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2017-09-27 22:39:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8fb7ee144f294300289e3fb28110c7dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inspector lookup rules</sys_name>
+        <sys_package display_value="Safety" source="x_163438_safety">27a903ea4f110300289e3fb28110c74d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">27a903ea4f110300289e3fb28110c74d</sys_scope>
+        <sys_update_name>sys_ui_module_8fb7ee144f294300289e3fb28110c7dd</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2017-09-27 22:39:20</sys_updated_on>
+        <table>x_163438_safety_inspector_lookup_rule</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

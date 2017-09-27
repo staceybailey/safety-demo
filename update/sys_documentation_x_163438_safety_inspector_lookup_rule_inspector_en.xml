@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="inspector" label="Inspector" language="en" table="x_163438_safety_inspector_lookup_rule">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>inspector</element>
+            <help/>
+            <hint/>
+            <label>Inspector</label>
+            <language>en</language>
+            <name>x_163438_safety_inspector_lookup_rule</name>
+            <plural>Inspectors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2017-09-27 22:39:21</sys_created_on>
+            <sys_id>4fb7ee144f294300289e3fb28110c7ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inspector</sys_name>
+            <sys_package display_value="Safety" source="x_163438_safety">27a903ea4f110300289e3fb28110c74d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">27a903ea4f110300289e3fb28110c74d</sys_scope>
+            <sys_update_name>sys_documentation_x_163438_safety_inspector_lookup_rule_inspector_en</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2017-09-27 22:39:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
