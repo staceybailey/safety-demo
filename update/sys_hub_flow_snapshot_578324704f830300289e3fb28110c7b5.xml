@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"da0b388e-c419-429f-9969-89141b0b95ce.approval_state","label":"1➛Approval State","type":"choice","base_type":"choice"},{"name":"Updated_1.current.opened_by","label":"Trigger➛Issue Record➛Opened by","reference":"sys_user","reference_display":"Opened by","type":"reference","base_type":"reference","parent_table_name":"x_163438_safety_issue","column_name":"opened_by"},{"name":"Updated_1.current","label":"Trigger➛Issue Record","reference":"x_163438_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"}]</label_cache>
+        <name>Issue approval</name>
+        <parent_flow display_value="Issue approval">d2d268304f830300289e3fb28110c72d</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>luke.wilson</sys_created_by>
+        <sys_created_on>2017-12-12 15:52:58</sys_created_on>
+        <sys_id>578324704f830300289e3fb28110c7b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue approval</sys_name>
+        <sys_package display_value="Safety" source="x_163438_safety">27a903ea4f110300289e3fb28110c74d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">27a903ea4f110300289e3fb28110c74d</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_578324704f830300289e3fb28110c7b5</sys_update_name>
+        <sys_updated_by>luke.wilson</sys_updated_by>
+        <sys_updated_on>2017-12-12 15:52:58</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>
