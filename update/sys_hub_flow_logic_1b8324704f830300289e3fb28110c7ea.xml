@@ -6,7 +6,7 @@
         <decision_table/>
         <decision_table_inputs/>
         <display_text/>
-        <flow display_value="Issue approval">578324704f830300289e3fb28110c7b5</flow>
+        <flow display_value="">578324704f830300289e3fb28110c7b5</flow>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
         <order>2</order>

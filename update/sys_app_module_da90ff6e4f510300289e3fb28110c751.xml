@@ -19,8 +19,6 @@
         <query/>
         <report/>
         <roles>x_163438_safety.user</roles>
-        <survey/>
-        <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2017-09-22 17:28:19</sys_created_on>

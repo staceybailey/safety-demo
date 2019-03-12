@@ -7,7 +7,7 @@
         <comment/>
         <compiled_snapshot>f8f2e9920b10030085c083eb37673abd</compiled_snapshot>
         <display_text/>
-        <flow display_value="Issue approval">578324704f830300289e3fb28110c7b5</flow>
+        <flow display_value="">578324704f830300289e3fb28110c7b5</flow>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>

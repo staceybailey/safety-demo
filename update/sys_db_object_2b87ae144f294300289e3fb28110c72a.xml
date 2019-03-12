@@ -3,7 +3,6 @@
         <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
-        <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
@@ -17,7 +16,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Data Lookup Matcher Rules" name="dl_matcher">8b86f88fdba12300e50b78b5ae9619d9</super_class>
+        <super_class display_value="Data Lookup Matcher Rules" name="dl_matcher">7b458d2e34f3230078507f0289bd010f</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

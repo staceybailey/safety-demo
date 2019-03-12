@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>100</order>
-        <role display_value="agent_schedule_manager" name="agent_schedule_manager">ad1ce832c3443200467f10c422d3aea5</role>
+        <role display_value="">ad1ce832c3443200467f10c422d3aea5</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2017-09-25 21:19:41</sys_created_on>
