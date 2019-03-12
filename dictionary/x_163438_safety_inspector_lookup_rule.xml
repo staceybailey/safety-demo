@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="update_synch=true" extends="dl_matcher" label="Inspector lookup rule" max_length="40" name="x_163438_safety_inspector_lookup_rule" type="collection">
         <element choice="1" choice_field="category" choice_table="x_163438_safety_issue" label="Category" max_length="40" name="category" type="choice">
             <choice/>

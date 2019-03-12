@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_action_instance">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
+        <action_type_parent/>
         <comment/>
         <compiled_snapshot/>
         <display_text/>
@@ -142,24 +142,24 @@
         <field>approval_conditions</field>
         <id>b983e0704f830300289e3fb28110c7c8</id>
         <sys_created_by>luke.wilson</sys_created_by>
-        <sys_created_on>2017-12-12 15:52:53</sys_created_on>
-        <sys_id>0e8324704f830300289e3fb28110c73a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>luke.wilson</sys_updated_by>
-        <sys_updated_on>2017-12-12 15:52:53</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value>ApprovesAnyU[{{Updated_1.current.opened_by}}]</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>approval_conditions</field>
-        <id>b983e0704f830300289e3fb28110c7c8</id>
-        <sys_created_by>luke.wilson</sys_created_by>
         <sys_created_on>2017-12-12 15:52:52</sys_created_on>
         <sys_id>3583e0704f830300289e3fb28110c7ff</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>luke.wilson</sys_updated_by>
         <sys_updated_on>2017-12-12 15:52:52</sys_updated_on>
         <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>ApprovesAnyU[{{Updated_1.current.opened_by}}]</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_conditions</field>
+        <id>b983e0704f830300289e3fb28110c7c8</id>
+        <sys_created_by>luke.wilson</sys_created_by>
+        <sys_created_on>2017-12-12 15:52:53</sys_created_on>
+        <sys_id>0e8324704f830300289e3fb28110c73a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>luke.wilson</sys_updated_by>
+        <sys_updated_on>2017-12-12 15:52:53</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
         <value>ApprovesAnyU[{{Updated_1.current.opened_by}}]</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
@@ -214,18 +214,6 @@
         <field>journal_field</field>
         <id>b983e0704f830300289e3fb28110c7c8</id>
         <sys_created_by>luke.wilson</sys_created_by>
-        <sys_created_on>2017-12-12 15:52:53</sys_created_on>
-        <sys_id>c28324704f830300289e3fb28110c73a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>luke.wilson</sys_updated_by>
-        <sys_updated_on>2017-12-12 15:52:53</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>journal_field</field>
-        <id>b983e0704f830300289e3fb28110c7c8</id>
-        <sys_created_by>luke.wilson</sys_created_by>
         <sys_created_on>2017-12-12 15:52:52</sys_created_on>
         <sys_id>f983e0704f830300289e3fb28110c7fe</sys_id>
         <sys_mod_count>0</sys_mod_count>
@@ -235,16 +223,16 @@
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>record</field>
+        <field>journal_field</field>
         <id>b983e0704f830300289e3fb28110c7c8</id>
         <sys_created_by>luke.wilson</sys_created_by>
         <sys_created_on>2017-12-12 15:52:53</sys_created_on>
-        <sys_id>868324704f830300289e3fb28110c73a</sys_id>
+        <sys_id>c28324704f830300289e3fb28110c73a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>luke.wilson</sys_updated_by>
         <sys_updated_on>2017-12-12 15:52:53</sys_updated_on>
         <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value>{{Updated_1.current}}</value>
+        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>record</field>
@@ -259,16 +247,16 @@
         <value>{{Updated_1.current}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table</field>
+        <field>record</field>
         <id>b983e0704f830300289e3fb28110c7c8</id>
         <sys_created_by>luke.wilson</sys_created_by>
         <sys_created_on>2017-12-12 15:52:53</sys_created_on>
-        <sys_id>ce8324704f830300289e3fb28110c73a</sys_id>
+        <sys_id>868324704f830300289e3fb28110c73a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>luke.wilson</sys_updated_by>
         <sys_updated_on>2017-12-12 15:52:53</sys_updated_on>
         <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
-        <value/>
+        <value>{{Updated_1.current}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -280,6 +268,18 @@
         <sys_updated_by>luke.wilson</sys_updated_by>
         <sys_updated_on>2017-12-12 15:52:52</sys_updated_on>
         <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>b983e0704f830300289e3fb28110c7c8</id>
+        <sys_created_by>luke.wilson</sys_created_by>
+        <sys_created_on>2017-12-12 15:52:53</sys_created_on>
+        <sys_id>ce8324704f830300289e3fb28110c73a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>luke.wilson</sys_updated_by>
+        <sys_updated_on>2017-12-12 15:52:53</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f8f2e9920b10030085c083eb37673abd</table>
         <value/>
     </sys_element_mapping>
 </record_update>

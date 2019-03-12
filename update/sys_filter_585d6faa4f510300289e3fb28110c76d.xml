@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_filter">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
     <sys_filter action="INSERT_OR_UPDATE">
         <filter table="sys_user">nameSTARTSWITHdon ^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="don"/>
             <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
@@ -25,6 +24,7 @@
         <sys_updated_on>2017-09-22 17:13:59</sys_updated_on>
         <table>sys_user</table>
         <title>mobile</title>
-        <user display_value="Chuck Tomasi">a80647aa4f110300289e3fb28110c7ba</user>
+        <user display_value="Chuck Tomasi">46c9e158a9fe198101d44d0d22cb640d</user>
     </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=585d6faa4f510300289e3fb28110c76d"/>
 </record_update>

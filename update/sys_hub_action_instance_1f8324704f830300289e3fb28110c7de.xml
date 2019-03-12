@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_action_instance">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent/>
         <comment/>
-        <compiled_snapshot display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Issue approval">578324704f830300289e3fb28110c7b5</flow>
         <order>2.1</order>

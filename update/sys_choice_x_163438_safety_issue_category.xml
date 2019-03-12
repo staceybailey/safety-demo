@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_163438_safety_issue" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -45,7 +44,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>chuck.tomasi</sys_created_by>
             <sys_created_on>2017-09-25 16:46:49</sys_created_on>
-            <sys_id>ebd383a34f910300289e3fb28110c7a6</sys_id>
+            <sys_id>95865c1fdb4cf3008dbff8231f961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>category</sys_name>
             <sys_package display_value="Safety" source="x_163438_safety">27a903ea4f110300289e3fb28110c74d</sys_package>

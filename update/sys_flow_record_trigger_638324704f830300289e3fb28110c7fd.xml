@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_flow_record_trigger">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
     <sys_flow_record_trigger action="INSERT_OR_UPDATE">
         <active>true</active>
         <condition table="x_163438_safety_issue">stateCHANGESTO10<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="10"/>
@@ -8,6 +7,9 @@
         <on_delete>false</on_delete>
         <on_insert>false</on_insert>
         <on_update>true</on_update>
+        <run_when_setting/>
+        <run_when_user_list/>
+        <run_when_user_setting/>
         <sys_class_name>sys_flow_record_trigger</sys_class_name>
         <sys_created_by>luke.wilson</sys_created_by>
         <sys_created_on>2017-12-12 15:53:00</sys_created_on>

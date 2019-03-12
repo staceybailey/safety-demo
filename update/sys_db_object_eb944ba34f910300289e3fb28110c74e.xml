@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access/>
         <actions_access>false</actions_access>
@@ -18,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">3437eb45dd2003003399d83d70be02e5</super_class>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">ee4fe847db212300e50b78b5ae96192c</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

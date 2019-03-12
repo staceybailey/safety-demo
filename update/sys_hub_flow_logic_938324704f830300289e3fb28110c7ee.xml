@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_flow_logic">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">868324704f830300289e3fb28110c730</block>
+        <comment/>
         <connected_to>ba7ba9af-0c1b-469b-a68f-3ded62d1db24</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
         <display_text/>
         <flow display_value="Issue approval">578324704f830300289e3fb28110c7b5</flow>
         <inputs/>
         <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
         <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
         <parent_ui_id/>
         <sys_class_name>sys_hub_flow_logic</sys_class_name>
         <sys_created_by>luke.wilson</sys_created_by>
@@ -22,6 +26,8 @@
         <sys_updated_by>luke.wilson</sys_updated_by>
         <sys_updated_on>2017-12-12 15:52:59</sys_updated_on>
         <ui_id>0b8ed7fa-e3da-4971-867b-6952281c2b0b</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
     </sys_hub_flow_logic>
     <sys_variable_value action="delete_multiple" query="document_key=938324704f830300289e3fb28110c7ee"/>
 </record_update>

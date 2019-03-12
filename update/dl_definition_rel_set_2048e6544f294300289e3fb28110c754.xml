@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="dl_definition_rel_set">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set">
     <dl_definition_rel_set action="INSERT_OR_UPDATE">
         <always_replace>true</always_replace>
         <dl_definition display_value="Inspector lookup">6f0866544f294300289e3fb28110c723</dl_definition>

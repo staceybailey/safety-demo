@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="task" label="Issue" max_length="40" name="x_163438_safety_issue" sizeclass="31" type="collection">
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Issue" max_length="40" name="x_163438_safety_issue" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
             <choice>
-                <element label="Big" sequence="0" value="Big"/>
-                <element label="Small" sequence="1" value="Small"/>
+                <element inactive_on_update="false" label="Big" sequence="0" value="Big"/>
+                <element inactive_on_update="false" label="Small" sequence="1" value="Small"/>
             </choice>
         </element>
         <element label="Inspector" max_length="32" name="inspector" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
